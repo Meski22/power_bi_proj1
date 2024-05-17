@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Car_Sale_proj"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "7cc5cfc4-a8ba-44f8-8e29-3074ab556e04"
+  }
+}
